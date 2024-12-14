@@ -1,14 +1,31 @@
-# Shell---Linux
-Repositório onde vou subir alguns exercícios do livro de Júlio Cezar Nevez "Programação Shell Linux", 8ª edição.
+## **Shell Linux - Exercícios do Livro**
 
-Link do Livro: https://1drv.ms/b/c/2b24c474534a6397/EQRsuFMKmJhGr6EErpXBOBsB8M63dRTXy4xnhm_yX20Huw?e=R2n4ci
+Repositório dedicado à resolução dos exercícios do livro **"Programação Shell Linux"** por **Júlio Cezar Neves**, 8ª edição.
 
-Exercícios do Capítulo 1: Recordar é Viver - Página 101
-Exercício do Capítulo 2: Comandos que não são do Planeta - Página 156
-Exercícios do Capítulo 3: Viemos aqui para falar ou para programar? - Página 173
-Exercícios do Capítulo 4: Liberdade condicional - Página 201
-Exercício do Capítulo 5: De Lua no Loop - Página 220
-Exercícios do Capítulo 6: Aprendendo a ler - Página 246
-Exercícios do Capítulo 7: Várias variáveis - Página 290
+---
 
-Espero que gostem!
+### 📖 **Sobre o Livro**
+- **Título:** Programação Shell Linux  
+- **Autor:** Júlio Cezar Neves  
+- **Edição:** 8ª  
+- **Link para o Livro:** [https://1drv.ms/b/c/2b24c474534a6397/EQRsuFMKmJhGr6EErpXBOBsB8M63dRTXy4xnhm_yX20Huw?e=R2n4ci](#)  
+
+---
+
+### 🗂️ **Estrutura do Conteúdo**
+
+Este repositório está organizado em pastas separadas por capítulos e páginas do livro.  
+
+| Capítulo | Título                           | Página | Arquivos             |
+|----------|---------------------------------|--------|----------------------|
+| 1        | Recordar é Viver                | 101    | [Capítulo 1](#)      |
+| 2        | Comandos que não são do Planeta | 156    | [Capítulo 2](#)      |
+| 3        | Viemos aqui para falar ou programar? | 173 | [Capítulo 3](#)      |
+| 4        | Liberdade Condicional           | 201    | [Capítulo 4](#)      |
+| 5        | De Lua no Loop                  | 220    | [Capítulo 5](#)      |
+| 6        | Aprendendo a Ler                | 246    | [Capítulo 6](#)      |
+| 7        | Várias Variáveis                | 290    | [Capítulo 7](#)      |
+
+---
+
+### 🚀 **Espero que gostem!**
